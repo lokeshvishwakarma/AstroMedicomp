@@ -363,3 +363,7 @@ MigrationBackup/
 FodyWeavers.xsd
 *.exe
 *.obj
+.idea/encodings.xml
+.idea/indexLayout.xml
+.idea/vcs.xml
+.vscode/settings.json
